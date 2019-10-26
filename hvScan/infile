@@ -1,0 +1,9 @@
+=====================
+Run this code by doing:
+./code A B C
+where A = change in PMT voltage [Volts]
+      B = 1: all bars
+          2: long bars only
+          3: short bars only
+      C = /path/to/input/file
+=====================
